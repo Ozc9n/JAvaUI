@@ -1,2 +1,2 @@
-Yerel Veritabanına bağlamadan Giriş ve Kayıt ekranları.
+#readme
 ![giri](https://user-images.githubusercontent.com/59474596/104218672-203d4280-544e-11eb-878f-a652ae353da5.PNG)
